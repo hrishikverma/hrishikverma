@@ -38,6 +38,11 @@
 
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
+### My Github Stats:
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikverma&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
+
+
 
 ## 📈 Stats
 
