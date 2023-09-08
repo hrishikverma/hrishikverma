@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-HrishikVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi321/)](https://www.linkedin.com/in/hrishik-raj-verma-59b180213/)
 [![Gmail Badge](https://img.shields.io/badge/-vermahr20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vermahr20@gmail.com)](mailto:vermahr20@gmail.com)
 
-[![Hrishik github activity graph](https://activity-graph.herokuapp.com/graph?username=hrishikverma&theme=xcode)](https://git.io/hrishikverma)
 
 ## ⚡ Technologies
 
